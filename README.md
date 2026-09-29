@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pratyaksh | Portfolio</title>
+    <style>
+        /* General Page Setup */
+   
+    </style>
+    <link rel="stylesheet" href="style1.css">
+</head>
+<body>
+
+    <div class="container">
+        <div class="portfolio-card">
+            
+            <!-- Profile Image (Replace URL with your own path) -->
+            <img class="profile-pic" src="WhatsApp Image 2026-09-28 at 10.21.49 AM.jpeg" alt="Pratyaksh">
+
+            <h1>Pratyaksh </h1>
+            <div class="meta-info">18 Years Old • Aspiring AI Engineer</div>
+
+            <!-- Academic Stream & Institution Details -->
+            <h2>Education</h2>
+            <div class="info-block academic-highlight">
+                <p><strong>University:</strong> KIET deemed to be university</p>
+                <p><strong>Degree:</strong> B.Tech (Bachelor of Technology)</p>
+                <p><strong>Specialization Stream:</strong> Computer Science & Engineering (Artificial Intelligence & Machine Learning)</p>
+            </div>
+
+            <!-- Work/Academic Projects Focus -->
+            <h2>Projects Worked On</h2>
+            <!-- <div class="info-block">
+                <div class="project-item">
+                    <div class="project-title">🚀 Smart Fitness Tracker Analytics</div>
+                    <p>Developed a script that takes personal 5K running activity records and creates predictive analysis on pace patterns and recovery timelines.</p>
+                </div>
+                <div class="project-item">
+                    <div class="project-title">🤖 Predictive Text / Recommendation Logic</div>
+                    <p>Designed a foundational machine learning concept framework utilizing Python to categorize library archives and non-fictional historical text sets.</p>
+                </div>
+            </div> -->
+<pre>
+
+
+
+
+
+</pre>
+            <!-- Personal Core Technical Skills (Crucial Addition for Tech Portfolios) -->
+            <h2>Core Skills</h2>
+            <div class="info-block">
+                <ul class="grid-list">
+                    <li>Python Programming</li>
+                    <li>Foundational Data Structures</li>
+                    <li>HTML5 & CSS3 Essentials</li>
+                    <li>Data Classification Concepts</li>
+                </ul>
+            </div>
+
+            <!-- Lifestyle and Hobbies Focus -->
+            <h2>Hobbies & Interests</h2>
+            <div class="info-block">
+                <ul class="grid-list">
+                    <li>Running & Athletics (5K Tracks)</li>
+                    <li>Reading Non-Fictional Profiles</li>
+                    <li>Exploring New Geographies</li>
+                    <li>Nature & Outdoor Photography</li>
+                </ul>
+            </div>
+
+            <!-- LinkedIn Call to Action Connection -->
+            <!-- Replace the '#' below with your absolute profile URL link -->
+            <a class="linkedin-btn" href="https://linkedin.com" target="_blank">
+                Connect with me on LinkedIn
+            </a>
+
+        </div>
+    </div>
+
+    <!-- The Integrated Footer Segment Element -->
+    <footer>
+        <p>&copy; 2026 Pratyaksh. Built with structural HTML & CSS.</p>
+    </footer>
+
+</body>
+</html>
